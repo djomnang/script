@@ -1,1 +1,3 @@
-# script
+# maven-project
+
+Simple Maven Project
